@@ -52,9 +52,9 @@ Este projeto foi criado com fins **educacionais e demonstrativos**, com foco em:
 ## Demonstrações
 
 ### interface de conexão do banco (login/senha)
-![icone banco de dados](./img/azure3.JPG)
+![imagem da interface de conexão](./img/azure3.JPG)
 ### Área de desenvolvimento
-![icone banco de dados](./img/azure2.JPG)
+![área de desenvovimento](./img/azure2.JPG)
 
 ### Código SQL
 [Modelo fisico do banco de dados](./db-controle-de-chamados.sql)
