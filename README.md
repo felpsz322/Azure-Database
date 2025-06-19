@@ -2,7 +2,7 @@
 
 # ![icone banco de dados](./img/icons8-configuração-de-dados-50.png) - Administrador de banco de dados Azure
 
-# Sistema de Chamados - Banco de Dados SQL (Azure)
+# Sistema de Controle de Chamados - Banco de Dados SQL (Azure)
 
 Este projeto é um sistema de controle de bchamados de TI desenvolvido e hospedado no **Azure SQL Database**, com foco em problemas comuns enfrentados por empresas no dia a dia, como:
 
