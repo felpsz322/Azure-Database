@@ -4,7 +4,7 @@
 
 # Sistema de Chamados - Banco de Dados SQL (Azure)
 
-Este projeto é um sistema de chamados de TI desenvolvido e hospedado no **Azure SQL Database**, com foco em problemas comuns enfrentados por empresas no dia a dia, como:
+Este projeto é um sistema de controle de bchamados de TI desenvolvido e hospedado no **Azure SQL Database**, com foco em problemas comuns enfrentados por empresas no dia a dia, como:
 
 -  Computador lento  
 -  Problemas de rede  
